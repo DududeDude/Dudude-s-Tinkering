@@ -3,6 +3,7 @@
   "packages": [
     {
       "name": "Zelda 2 Randomizer",
+      "game_name": "Zelda 2 Randomizer",
       "author": "DududeDude",
       "version": "1.0.4.1",
       "uid": "z2rando_dududedude",
