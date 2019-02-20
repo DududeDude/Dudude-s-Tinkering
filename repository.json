@@ -4,20 +4,20 @@
     {
       "name": "Items, Locations and Simple Overworld Mapping",
       "author": "Dudude Dude",
-	  "game_name": "Zelda 2 Randomizer",
+	    "game_name": "Zelda 2 Randomizer",
       "version": "1.1.0.0",
-	  "required_app_version": "2.1.0.0",
+	    "required_app_version": "2.1.0.0",
       "uid": "z2rando_dududedude",
       "link": "https://dududedude.github.io/Dudude-s-Tinkering/z2rando_dududedude.zip",
-	  "variants": [
-	    {
-		  "display_name": "Items and Locations"
-		},
-		{
-		  "display_name": "Items, Locations and Simple Overworld Mapping",
-		  "flags": [ "map" ]
-		}
-	  ]
+	    "variants": [
+	      {
+		      "display_name": "Items and Locations"
+		    },
+		    {
+		      "display_name": "Items, Locations and Simple Overworld Mapping",
+		      "flags": [ "map" ]
+		    }
+	    ]
     }
   ]
 }
