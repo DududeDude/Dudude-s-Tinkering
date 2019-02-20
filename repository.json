@@ -11,10 +11,10 @@
       "link": "https://dududedude.github.io/Dudude-s-Tinkering/z2rando_dududedude.zip",
       "variants": [
         {
-          "display_name": "Items and Locations"
+          "name": "Items and Locations"
         },
         {
-          "display_name": "Items, Locations and Simple Overworld Mapping",
+          "name": "Items, Locations and Simple Overworld Mapping",
           "flags": [ "map" ]
         }
       ]
