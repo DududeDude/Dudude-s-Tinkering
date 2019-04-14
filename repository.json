@@ -17,7 +17,7 @@
         },
         {
           "name": "Items, Locations and Simple Overworld Mapping",
-          "flags": [ "map", "pins" ]
+          "flags": [ "map" ]
         }
       ]
     },
@@ -36,7 +36,7 @@
         },
         {
           "name": "Overworld Map",
-          "flags": [ "map" ]
+          "flags": [ "map", "pins" ]
         }
       ]  
     }
