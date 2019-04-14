@@ -1,6 +1,7 @@
 {
   "name": "Dudude's Tinkering",
-  "packages": [
+  "packages": 
+  [
     {
       "name": "Z2R Tracker",
       "author": "Dudude Dude",
@@ -9,7 +10,8 @@
       "required_app_version": "2.1.0.0",
       "uid": "z2rando_dududedude",
       "link": "https://dududedude.github.io/Dudude-s-Tinkering/z2rando_dududedude.zip",
-      "variants": [
+      "variants": 
+      [
         {
           "name": "Items and Locations"
         },
@@ -18,6 +20,25 @@
           "flags": [ "map" ]
         }
       ]
+    },
+    {
+      "name": "Z1R Tracker",
+      "author": "Dudude Dude",
+      "game_name": "The Legend of Zelda Randomizer",
+      "version": "1.0.0.0",
+      "required_app_version": "2.3.4.1",
+      "uid": "z1rando_dududedude",
+      "link": "https://dududedude.github.io/Dudude-s-Tinkering/z1rando_dududedude.zip",
+      "variants": 
+      [
+        {
+          "name": "Items Only",
+        },
+        {
+          "name": "Overworld Map",
+          "flags": [ "map" ]
+        }
+      ]  
     }
   ]
 }
