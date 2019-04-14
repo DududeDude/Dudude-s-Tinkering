@@ -17,7 +17,7 @@
         },
         {
           "name": "Items, Locations and Simple Overworld Mapping",
-          "flags": [ "map" ]
+          "flags": [ "map", "pins" ]
         }
       ]
     },
