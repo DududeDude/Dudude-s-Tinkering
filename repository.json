@@ -25,7 +25,7 @@
       "name": "Z1R Tracker",
       "author": "Dudude Dude",
       "game_name": "The Legend of Zelda Randomizer",
-      "version": "1.0.0.1",
+      "version": "1.0.1.2",
       "required_app_version": "2.3.4.1",
       "uid": "z1rando_dududedude",
       "link": "https://dududedude.github.io/Dudude-s-Tinkering/z1rando_dududedude.zip",
@@ -38,6 +38,10 @@
         {
           "name": "Overworld Map",
           "flags": [ "map", "pins", "chathud" ]
+        },
+        {
+          "name": "Compact Overworld Map",
+          "flags": [ "map", "chathud" ]
         }
       ]  
     }
