@@ -36,7 +36,7 @@
       "variants": 
       [
         {
-          "name": "Items Only",
+          "name": "Items and Locations",
           "flags": [ "chathud" ]
         },
         {
