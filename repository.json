@@ -36,16 +36,15 @@
       "variants": 
       [
         {
-          "name": "Items and Locations",
-          "flags": [ "chathud" ]
+          "name": "Items and Locations"
         },
         {
           "name": "Overworld Map",
-          "flags": [ "map", "pins", "chathud" ]
+          "flags": [ "map", "pins" ]
         },
         {
           "name": "Palette-Based Overworld Map",
-          "flags": [ "map", "chathud" ]
+          "flags": [ "map" ]
         }
       ]  
     }
