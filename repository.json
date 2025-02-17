@@ -6,7 +6,7 @@
       "name": "Z2R Tracker",
       "author": "Dudude Dude",
       "game_name": "Zelda 2 Randomizer",
-      "version": "1.4.3.4",
+      "version": "1.5.0.0",
       "required_app_version": "2.3.5.1",
       "uid": "z2rando_dududedude",
       "link": "https://dududedude.github.io/Dudude-s-Tinkering/z2rando_dududedude.zip",
@@ -16,11 +16,14 @@
           "name": "Items and Locations"
         },
         {
-          "name": "Items, Locations and Simple Overworld Mapping",
+          "name": "Preliminary 4.4 Randomizer Support"
+        },
+        {
+          "name": "Items, Locations and Overworld Mapping",
           "flags": [ "map" ]
         },
         {
-          "name": "Items, Locations and Simple Overworld Mapping (Old Version)",
+          "name": "Preliminary 4.4 Randomizer Support with Map",
           "flags": [ "map" ]
         }
       ]
